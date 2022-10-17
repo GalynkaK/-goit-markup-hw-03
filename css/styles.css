@@ -33,7 +33,7 @@ a{
 .page-header{
   padding-top: 34px;
   padding-bottom: 34px;
-  border-bottom: ;
+
 }
 .site-nav {
   display: flex;
@@ -252,6 +252,7 @@ a{
 }
 .project{
   width: 1200px;
+  margin-top: 0;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
@@ -284,6 +285,7 @@ a{
   line-height: 2;
   letter-spacing: 0.06em;
   margin-bottom: 4px;
+  text-align: center;
 }
 .img{
   margin-bottom: 20px;
@@ -293,7 +295,7 @@ a{
   color: var(--main-color);
   font-size: 16px;
   line-height: 1.88;
-
+  text-align: center; 
 }
 
 .footer{
